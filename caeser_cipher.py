@@ -30,9 +30,9 @@ def decryptMessage(message, cipherKey, alphabet):
 
 def runCaeserCipherProgram():
     myAlphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-    print(f'Alphabet: {myAlphabet}')
+#    print(f'Alphabet: {myAlphabet}')
     myAlphabet2 = getDoubleAlphabet(myAlphabet)
-    print(f'Alphabet2: {myAlphabet2}')
+#    print(f'Alphabet2: {myAlphabet2}')
     myMessage = getMessage()
     print(myMessage)
     myCipherKey = getCipherKey()
