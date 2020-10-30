@@ -1,5 +1,6 @@
-list = [3, 5, 6, 7, 99]
+list = [36, 54, 6, 52, 99, 38]
 
+        # This script is set to only identify if there's just 1 odd or even
 A = []
 B = []
 
